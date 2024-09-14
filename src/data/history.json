@@ -1,0 +1,41 @@
+[
+    {
+      "role": "Software Engineer (FullStack)",
+      "organisation": "Fabu",
+      "startDate": "July, 2024",
+      "endDate": "Present",
+      "experiences": ["was part of the founding engineers hired on the team", "Built the backend codebase on python using django rest framework", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Backend Engineer",
+      "organisation": "Finezcv.com",
+      "startDate": "Mar, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Led the creation to the resume based grading system", "Wrote units test that covered more than 70% of the codebase"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Codsoft",
+      "startDate": "Dec, 2023",
+      "endDate": "Mar, 2024",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/netflix.png"
+    },
+    {
+        "role": "SWE Intern",
+        "organisation": "Oasis Infobyte",
+        "startDate": "Jan, 2024",
+        "endDate": "Apr, 2024",
+        "experiences": [
+          "Worked on component library",
+          "Helped create UI components"
+        ],
+        "imageSrc": "history/netflix.png"
+      }
+  ]
+  
