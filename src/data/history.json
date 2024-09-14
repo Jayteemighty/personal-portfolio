@@ -1,41 +1,47 @@
 [
-    {
-      "role": "Software Engineer (FullStack)",
-      "organisation": "Fabu",
-      "startDate": "July, 2024",
-      "endDate": "Present",
-      "experiences": ["was part of the founding engineers hired on the team", "Built the backend codebase on python using django rest framework", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "Backend Engineer",
-      "organisation": "Finezcv.com",
-      "startDate": "Mar, 2024",
-      "endDate": "Aug, 2024",
-      "experiences": ["Led the creation to the resume based grading system", "Wrote units test that covered more than 70% of the codebase"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Codsoft",
-      "startDate": "Dec, 2023",
-      "endDate": "Mar, 2024",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
-    },
-    {
-        "role": "SWE Intern",
-        "organisation": "Oasis Infobyte",
-        "startDate": "Jan, 2024",
-        "endDate": "Apr, 2024",
-        "experiences": [
-          "Worked on component library",
-          "Helped create UI components"
-        ],
-        "imageSrc": "history/netflix.png"
-      }
-  ]
-  
+  {
+    "role": "Software Engineer (FullStack)",
+    "organisation": "Fabu",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Contributed as one of the founding engineers, shaping the initial architecture and development strategy.",
+      "Developed a robust backend system using Django Rest Framework, enhancing the scalability and performance of the application.",
+      "Implemented performance optimizations that reduced load times by 50%, significantly improving user experience."
+    ],
+    "imageSrc": "history/fabu.png"
+  },
+  {
+    "role": "Backend Engineer",
+    "organisation": "Finezcv.com",
+    "startDate": "Mar, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "Spearheaded the development of a resume-based grading system, streamlining the hiring process and increasing efficiency.",
+      "Authored comprehensive unit tests that covered over 70% of the codebase, ensuring high reliability and robustness of the system."
+    ],
+    "imageSrc": "history/finezcv.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Oasis Infobyte",
+    "startDate": "Jan, 2024",
+    "endDate": "Apr, 2024",
+    "experiences": [
+      "Collaborated on developing a component library, enhancing the consistency and reusability of UI components across projects.",
+      "Assisted in the creation of UI components, contributing to a more cohesive and user-friendly interface."
+    ],
+    "imageSrc": "history/oasis.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Codsoft",
+    "startDate": "Dec, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": [
+      "Worked on the development of a component library, improving modularity and maintainability of the frontend codebase.",
+      "Contributed to building UI components, enhancing the overall user experience and interface consistency."
+    ],
+    "imageSrc": "history/codsoft.png"
+  }
+]

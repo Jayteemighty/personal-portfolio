@@ -30,7 +30,7 @@ export const About = () => {
               <h3>Backend Engineer</h3>
               <p>
                 I have experience developing fast and optimised back-end systems
-                and APIs
+                and APIs usng Django and FastAPI
               </p>
             </div>
           </li>

@@ -1,31 +1,54 @@
 [
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
-    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
-    }
-  ]
-  
+  {
+    "title": "Django",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg"
+  },
+  {
+    "title": "FastAPI",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/fastapi.svg"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg"
+  },
+  {
+    "title": "Microservices",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg"
+  }
+]
